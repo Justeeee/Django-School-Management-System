@@ -201,3 +201,53 @@ INFO 2023-01-05 13:40:53,832 "GET /site-config HTTP/1.1" 200 9234
 INFO 2023-01-05 13:41:33,743 Watching for file changes with StatReloader
 INFO 2023-01-05 13:41:34,825 Watching for file changes with StatReloader
 INFO 2023-01-05 13:41:36,082 "GET /site-config HTTP/1.1" 200 9249
+INFO 2023-01-05 13:43:12,935 /home/asus/PycharmProjects/projects/Django-School-Management-System/venv/lib/python3.10/site-packages/widget_tweaks/templatetags/widget_tweaks.py changed, reloading.
+INFO 2023-01-05 13:43:13,376 Watching for file changes with StatReloader
+INFO 2023-01-05 13:49:16,517 Watching for file changes with StatReloader
+INFO 2023-01-05 13:49:18,253 "GET / HTTP/1.1" 200 9298
+INFO 2023-01-05 13:49:22,145 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-01-05 13:49:25,814 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2023-01-05 13:49:29,467 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2023-01-05 13:49:36,875 "GET /result/create/ HTTP/1.1" 200 10585
+INFO 2023-01-05 13:49:44,172 "GET /result/edit-results/ HTTP/1.1" 200 10778
+INFO 2023-01-05 13:49:52,894 "GET /result/view/all HTTP/1.1" 200 9856
+INFO 2023-01-05 13:49:56,051 "GET /result/create/ HTTP/1.1" 200 10585
+INFO 2023-01-05 13:50:00,720 "POST /result/create/ HTTP/1.1" 200 10729
+INFO 2023-01-05 13:50:05,157 "POST /result/create/ HTTP/1.1" 200 11146
+INFO 2023-01-05 13:50:21,734 "POST /result/create/ HTTP/1.1" 302 0
+INFO 2023-01-05 13:50:21,759 "GET /result/edit-results/ HTTP/1.1" 200 10778
+INFO 2023-01-05 13:50:35,250 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2023-01-05 13:50:35,274 "GET /result/edit-results/ HTTP/1.1" 200 10921
+INFO 2023-01-05 13:50:50,185 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2023-01-05 13:50:50,209 "GET /result/edit-results/ HTTP/1.1" 200 10921
+INFO 2023-01-05 13:50:56,628 "POST /result/edit-results/ HTTP/1.1" 302 0
+INFO 2023-01-05 13:50:56,652 "GET /result/edit-results/ HTTP/1.1" 200 10926
+INFO 2023-01-05 13:50:59,454 "GET /result/view/all HTTP/1.1" 200 9866
+INFO 2023-01-05 13:51:15,752 "GET /site-config HTTP/1.1" 200 9249
+INFO 2023-01-05 13:51:21,958 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-01-05 13:51:47,734 "GET /student/create/ HTTP/1.1" 200 13695
+INFO 2023-01-05 13:51:59,880 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-01-05 13:52:25,473 "GET /result/create/ HTTP/1.1" 200 10585
+INFO 2023-01-05 13:52:27,552 "GET /result/edit-results/ HTTP/1.1" 200 10783
+INFO 2023-01-05 13:54:15,250 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-01-05 13:54:18,338 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-01-05 13:54:27,672 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2023-01-05 13:55:27,264 /home/asus/PycharmProjects/projects/Django-School-Management-System/venv/lib/python3.10/site-packages/widget_tweaks/__init__.py changed, reloading.
+INFO 2023-01-05 13:55:27,706 Watching for file changes with StatReloader
+INFO 2023-01-05 13:56:35,544 Watching for file changes with StatReloader
+INFO 2023-01-05 13:56:36,580 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2023-01-05 13:56:37,315 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2023-01-05 13:56:38,093 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-01-05 13:56:54,238 "POST /site-config HTTP/1.1" 200 10897
+INFO 2023-01-05 13:56:56,723 "GET /result/view/all HTTP/1.1" 200 9866
+INFO 2023-01-05 13:56:57,289 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-01-05 14:03:12,806 "GET /finance/list/ HTTP/1.1" 200 9933
+INFO 2023-01-05 14:03:16,571 "GET /finance/create/ HTTP/1.1" 200 13606
+INFO 2023-01-05 14:03:42,001 "POST /finance/create/ HTTP/1.1" 302 0
+INFO 2023-01-05 14:03:42,008 "GET /finance/list HTTP/1.1" 301 0
+INFO 2023-01-05 14:03:42,075 "GET /finance/list/ HTTP/1.1" 200 10374
+INFO 2023-01-05 14:03:48,288 "GET /finance/list/ HTTP/1.1" 200 10374
+INFO 2023-01-05 14:03:56,745 "GET /finance/bulk-invoice/ HTTP/1.1" 200 9299
+INFO 2023-01-05 14:04:07,477 "GET /result/edit-results/ HTTP/1.1" 200 10783
+INFO 2023-01-05 14:04:08,891 "GET /finance/list/ HTTP/1.1" 200 10374
+INFO 2023-01-05 14:04:12,661 "GET /finance/bulk-invoice/ HTTP/1.1" 200 9299
