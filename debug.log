@@ -193,3 +193,11 @@ INFO 2023-01-05 13:40:06,029 Watching for file changes with StatReloader
 INFO 2023-01-05 13:40:07,202 "GET /site-config HTTP/1.1" 200 9234
 INFO 2023-01-05 13:40:08,074 "GET /site-config HTTP/1.1" 200 9234
 INFO 2023-01-05 13:40:08,943 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:40:42,626 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:40:49,190 Watching for file changes with StatReloader
+INFO 2023-01-05 13:40:50,642 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:40:52,046 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:40:53,832 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:41:33,743 Watching for file changes with StatReloader
+INFO 2023-01-05 13:41:34,825 Watching for file changes with StatReloader
+INFO 2023-01-05 13:41:36,082 "GET /site-config HTTP/1.1" 200 9249
