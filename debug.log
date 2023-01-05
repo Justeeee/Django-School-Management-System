@@ -161,3 +161,29 @@ INFO 2023-01-02 15:59:19,928 "GET / HTTP/1.1" 200 9298
 INFO 2023-01-02 15:59:24,354 "GET /site-config HTTP/1.1" 200 10873
 INFO 2023-01-02 16:03:32,068 /home/asus/PycharmProjects/projects/Django-School-Management-System/apps/corecode/migrations/0002_auto_20200506_1520.py changed, reloading.
 INFO 2023-01-02 16:03:32,434 Watching for file changes with StatReloader
+INFO 2023-01-05 13:19:36,992 Watching for file changes with StatReloader
+INFO 2023-01-05 13:19:39,194 "GET / HTTP/1.1" 302 0
+INFO 2023-01-05 13:19:39,255 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+WARNING 2023-01-05 13:19:39,437 Not Found: /favicon.ico
+WARNING 2023-01-05 13:19:39,437 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2023-01-05 13:19:44,456 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-01-05 13:19:44,508 "GET / HTTP/1.1" 200 9298
+INFO 2023-01-05 13:20:36,662 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-01-05 13:21:13,305 Watching for file changes with StatReloader
+INFO 2023-01-05 13:21:16,510 "GET / HTTP/1.1" 200 9298
+INFO 2023-01-05 13:21:17,492 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-01-05 13:24:13,335 "GET /static/plugins/toastr/toastr.js.map HTTP/1.1" 200 25633
+WARNING 2023-01-05 13:24:13,337 "GET /static/plugins/Datatables/pdfmake.min.js.map HTTP/1.1" 404 1870
+INFO 2023-01-05 13:24:13,338 "GET /static/dist/js/adminlte.js.map HTTP/1.1" 200 113276
+INFO 2023-01-05 13:24:13,338 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 318045
+INFO 2023-01-05 13:24:13,358 "GET /static/dist/css/adminlte.min.css.map HTTP/1.1" 200 2149167
+INFO 2023-01-05 13:35:30,436 Watching for file changes with StatReloader
+INFO 2023-01-05 13:35:31,923 "GET / HTTP/1.1" 200 9298
+INFO 2023-01-05 13:35:33,152 "GET / HTTP/1.1" 200 9298
+INFO 2023-01-05 13:35:34,148 "GET /site-config HTTP/1.1" 200 10895
+INFO 2023-01-05 13:36:18,251 Watching for file changes with StatReloader
+INFO 2023-01-05 13:36:19,482 "GET /site-config HTTP/1.1" 200 10494
+INFO 2023-01-05 13:39:10,072 Watching for file changes with StatReloader
+INFO 2023-01-05 13:39:11,208 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:39:12,451 "GET /site-config HTTP/1.1" 200 9234
+INFO 2023-01-05 13:39:13,713 "GET /site-config HTTP/1.1" 200 9234

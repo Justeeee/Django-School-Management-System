@@ -239,7 +239,7 @@ class SubjectDeleteView(LoginRequiredMixin, DeleteView):
 
 
 class CurrentSessionAndTermView(LoginRequiredMixin, View):
-    """Current SEssion and Term"""
+    """Current Session and Term"""
 
     form_class = CurrentSessionForm
     template_name = "corecode/current_session.html"
