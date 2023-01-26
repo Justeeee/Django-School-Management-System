@@ -18,6 +18,7 @@ class StudentListView(LoginRequiredMixin, ListView):
     template_name = "students/student_list.html"
 
 
+
 class StudentDetailView(LoginRequiredMixin, DetailView):
     model = Student
     template_name = "students/student_detail.html"

@@ -9,7 +9,6 @@ from apps.corecode.models import StudentClass
 
 from .models import Student, StudentBulkUpload
 
-
 @receiver(post_save, sender=StudentBulkUpload)
 def create_bulk_student(sender, created, instance, *args, **kwargs):
     if created:
